@@ -1,0 +1,50 @@
+html {
+    font-size: 16px;
+    font-family: Verdana, sans-serif;
+    background-color: black;
+}
+
+.center {
+    text-align: center;
+}
+/* header */
+.header h1 {
+    color: white;
+    font-size: 3.125rem;
+}
+.header p {
+    color: aquamarine;
+    text-decoration: underline;
+}
+/* iphone prev */
+.iphone-prev {
+    align-items: center;
+}
+/* title 2 */
+.title2 h2 {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+.title2 p {
+    font-size: 1.31rem;
+    color: gray;
+}
+/* icon/coming-soon */
+.icon {
+    padding-top: 15px;
+}
+.coming-soon h2 {
+    color: white;
+    font-size: 2.625rem;
+    font-weight: 300;
+}
+.coming-soon p {
+    color: aquamarine;
+    text-decoration: underline;
+}
+/* footer */
+.copyright {
+    float: right;
+    color: gray;
+}
